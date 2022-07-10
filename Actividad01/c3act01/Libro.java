@@ -1,4 +1,5 @@
-package com.cice.ejercicios.ejercicio3.logica;
+package c3actividad1
+;
 
 public class Libro extends Publicacion implements Prestable {
 
@@ -7,6 +8,7 @@ public class Libro extends Publicacion implements Prestable {
     public Libro() {
         super();
     }
+
 
     public Libro (int codigo, String titulo, int anyo) {
         super(codigo,titulo,anyo);
