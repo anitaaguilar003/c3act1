@@ -1,5 +1,4 @@
-package c3actividad1
-;
+package c3actividad1;
 
 public class Libro extends Publicacion implements Prestable {
 
