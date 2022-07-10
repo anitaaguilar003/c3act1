@@ -1,7 +1,7 @@
-paquete  c3actividad1 ;
+package  c3actividad1 ;
 
 
-importar  c3actividad1*;
+import  c3actividad1*;
 
 
  public class Main {
