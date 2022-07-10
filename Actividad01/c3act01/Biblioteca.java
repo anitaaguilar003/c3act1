@@ -1,14 +1,11 @@
-package com.cice.ejercicios.ejercicio3.logica;
-
-import java.util.ArrayList;
+package c3actividad1;
 
 public class Biblioteca {
 
     public int cuentaPrestados(Object[] lista) {
         int cuantos = 0;
         for(Object o : lista) {
-            if(o instanceof Libro && ((Libro) o).prestado())
-                ++cuantos;
+            if(o instanceof Libro && ((Libro) o).prestado()) ++cuantos;
         }
         return cuantos;
     }
