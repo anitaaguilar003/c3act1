@@ -1,4 +1,5 @@
-package com.cice.ejercicios.ejercicio3.logica;
+package c3actividad1 ;
+
 
 public class Revista extends Publicacion {
 
