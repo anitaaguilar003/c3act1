@@ -30,9 +30,9 @@ importar  c3actividad1*;
     }
  /*public static void main(String[] args) {
         ArrayList<Publicacion> lista = new ArrayList<>();
-        Libro libro = new Libro(1,"Ojete",1988);
+        Libro libro = new Libro(1,"El Gato Feliz",2016);
         lista.add(libro);
-        lista.add(new Revista(2,"Los patos",2000,3));
+        lista.add(new Revista(2,"People",2015,3));
         for(Publicacion p : lista) {
             System.out.println(p.toString()); }
 
